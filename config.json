@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcrocess",
+        "uuid": 1944800,
+        "checksum": "wrdoqk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
